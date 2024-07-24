@@ -1,4 +1,5 @@
-# Duabetic_Retina_Image_Detection
+# Real_And_Fake Image Detection
+
 
 ## Supervisor
 
